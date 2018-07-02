@@ -5,6 +5,7 @@ Supplementary Material of Bargués-Ribera &amp; Gokhale, agriculture project
 This folder contains the following Jupyter notebooks:
 
 (1) EcoEvo_agriculture_1SEQ.ipynb
+
 (2) EcoEvo_agriculture_MULTISEQ.ipynb
 
 Notebook (1) contains the code for running the model for 1 rotation sequence. 
